@@ -1,0 +1,6 @@
+main: fr.fullgreendev.rank.bukkit.plugin.RankJavaPlugin
+name: Rank
+version: 1.2
+author: FullGreenDev
+commands:
+  rank:
